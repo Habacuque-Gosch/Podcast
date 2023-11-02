@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\bin\Debug\net6.0\Podcast.exe
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\bin\Debug\net6.0\Podcast.deps.json
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\bin\Debug\net6.0\Podcast.runtimeconfig.json
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\bin\Debug\net6.0\Podcast.dll
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\bin\Debug\net6.0\Podcast.pdb
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\Podcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\Podcast.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\Podcast.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\Podcast.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\Podcast.dll
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\refint\Podcast.dll
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\Podcast.pdb
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\Podcast.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Podcast\Podcast\obj\Debug\net6.0\ref\Podcast.dll
